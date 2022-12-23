@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* B.Eng. in Fuzhou University, Fujian, China, 2019-2023
+* B.Eng in Fuzhou University, Fujian, China, 2019-2023
 
 Work experience
 ======
