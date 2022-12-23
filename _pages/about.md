@@ -10,7 +10,7 @@ redirect_from:
 
 I am currently a Bachelor in electronic information engineering from Fuzhou University, Fujian, China. My research interests focus on deep learning, signal processing and AI edge system. [You can click here to view my resume.](https://shannongsr.github.io/cv/)
 
-During my undergraduate period, I received the guidance of Prof. [Zhijian Lin](https://xjzz.fzu.edu.cn/info/1013/1916.htm) and Prof. [Pingping Chen](https://xjzz.fzu.edu.cn/info/1012/1070.htm) and did some research on in-depth learning, communication signal processing and AI edge computing.
+During my undergraduate period, I received the guidance of Prof. [Zhijian Lin](https://xjzz.fzu.edu.cn/info/1013/1916.htm) and Prof. [Pingping Chen](https://xjzz.fzu.edu.cn/info/1012/1070.htm) and did some research on machine learning, communication signal processing and AI edge computing.
 
 At present, I am an intern in Quanzhou Institute of Equipment, Chinese Academy of Sciences. Here, I accept the guidance of Dr. [Li Jun](https://xjzz.fzu.edu.cn/info/1015/1123.htm/) and Mr. [Yin Gao](http://www.casqiem.ac.cn/doclist.action?chnlid=3167) to learn about image processing and robot control.
 
