@@ -10,7 +10,7 @@ redirect_from:
 
 I am currently a Bachelor in electronic information engineering from Fuzhou University, Fujian, China. My research interests focus on deep learning, signal processing and AI edge system.
 
-At present, I am an intern in Quanzhou Institute of Equipment, Chinese Academy of Sciences. Here, I accept the guidance of Dr. Li Jun to learn about image processing and robot control.
+At present, I am an intern in Quanzhou Institute of Equipment, Chinese Academy of Sciences. Here, I accept the guidance of Dr. [Li Jun](https://xjzz.fzu.edu.cn/info/1015/1123.htm/) and Mr. [Yin Gao](http://www.casqiem.ac.cn/doclist.action?chnlid=3167) to learn about image processing and robot control.
 
 I plan to apply for a research-oriented degree in the autumn of 2023 or later semester to engage in in-depth learning, image processing and AI edge computing related research. If you are interested in me and have relevant information, please be sure to contact me!
 
