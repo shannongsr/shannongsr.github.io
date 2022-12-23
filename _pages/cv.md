@@ -13,22 +13,22 @@ Education
 ======
 * B.Eng in Fuzhou University, Fujian, China, 2019-2023
 
-Work experience
+Internship experience
 ======
 * Oct. 2022: Research Assistant
   * Quanzhou Equipment Institute, Chinese Academy of Sciences
-  * Duties included: Image processing, AI edge computing, embedded
+  * Duties included: Image processing, AI edge computing, Embedded system
   * Supervisor: Prof. Jun Li
   
 Research Experiences
 ======
-* Smart port unmanned patrol inspection system based on deep learning
+* Smart port unmanned patrol inspection system based on deep learning (Supervise by Pingping Chen)
   * YOLOv5 Network FPGM pruning and TensorRT acceleration
   * Builds an AI embedded system based on Jetson nano
-* Research on pipe centering technology based on visual algorithm in electromagnetic pulse welding
+* Research on pipe centering technology based on visual algorithm in electromagnetic pulse welding (Supervise by Gang Mou)
   * Circle detection based on the Hove transform
   * Automatic control system construction based on Arduino
-* Tea leaf recognition and grasping system based on adaptive low-brightness image enhancement
+* Tea leaf recognition and grasping system based on adaptive low-brightness image enhancement (Supervise by Jun Li)
   * Adaptive low-brightness image enhancement with tea bag target recognition
   * Industrial mechanical arm control
 
