@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Bachelor in electronic information engineering from Fuzhou University, Fujian, China. My research interests focus on deep learning, signal processing and AI edge system.
+I am currently a Bachelor in electronic information engineering from Fuzhou University, Fujian, China. My research interests focus on deep learning, signal processing and AI edge system. [You can click here to view my resume.](https://shannongsr.github.io/cv/)
 
 During my undergraduate period, I received the guidance of Prof. [Zhijian Lin](https://xjzz.fzu.edu.cn/info/1013/1916.htm) and Prof. [Pingping Chen](https://xjzz.fzu.edu.cn/info/1012/1070.htm) and did some research on in-depth learning, communication signal processing and AI edge computing.
 
