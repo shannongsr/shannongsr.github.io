@@ -12,6 +12,8 @@ I am currently a Bachelor in electronic information engineering from Fuzhou Univ
 
 During my undergraduate period, I received the guidance of Prof. [Zhijian Lin](https://xjzz.fzu.edu.cn/info/1013/1916.htm) and Prof. [Pingping Chen](https://xjzz.fzu.edu.cn/info/1012/1070.htm) and did some research on machine learning, communication signal processing and AI edge computing.
 
+At the same time, I also got a lot of help from my class adviser, Dr. [Mou Gang](https://xjzz.fzu.edu.cn/info/1018/1061.htm). We have cooperated in the research of image processing.
+
 At present, I am an intern in Quanzhou Institute of Equipment, Chinese Academy of Sciences. Here, I accept the guidance of Dr. [Li Jun](https://xjzz.fzu.edu.cn/info/1015/1123.htm/) and Mr. [Yin Gao](http://www.casqiem.ac.cn/doclist.action?chnlid=3167) to learn about image processing and robot control.
 
 I plan to apply for a research-oriented degree in the autumn of 2023 or later semester to engage in in-depth learning, image processing and AI edge computing related research. If you are interested in me and have relevant information, please be sure to contact me!
