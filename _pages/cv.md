@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* B.Eng in Fuzhou University, Fujian, China, 2019-2023
+* Bachelor of Engineering majoring in Electronic Information Engineering, Fuzhou University, Fujian, China, 2019-2023
 
 Internship experience
 ======
