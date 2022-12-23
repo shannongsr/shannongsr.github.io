@@ -14,7 +14,7 @@ During my undergraduate period, I received the guidance of Prof. [Zhijian Lin](h
 
 At the same time, I also got a lot of help from my class adviser, Dr. [Gang Mou](https://xjzz.fzu.edu.cn/info/1018/1061.htm). We have cooperated in the research of image processing.
 
-At present, I am an intern in Quanzhou Institute of Equipment, Chinese Academy of Sciences. Here, I accept the guidance of Dr. [Li Jun](https://xjzz.fzu.edu.cn/info/1015/1123.htm/) and Mr. [Yin Gao](http://www.casqiem.ac.cn/doclist.action?chnlid=3167) to learn about image processing and robot control.
+At present, I am an intern in Quanzhou Institute of Equipment, Chinese Academy of Sciences. Here, I accept the guidance of Dr. [Jun Li](https://xjzz.fzu.edu.cn/info/1015/1123.htm/) and Mr. [Yin Gao](http://www.casqiem.ac.cn/doclist.action?chnlid=3167) to learn about image processing and robot control.
 
 I plan to apply for a research-oriented degree in the autumn of 2023 or later semester to engage in machine learning, image processing and AI edge computing related research. If you are interested in me and have relevant information, please be sure to contact me!
 
