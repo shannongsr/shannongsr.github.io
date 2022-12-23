@@ -11,30 +11,26 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Eng. in Fuzhou University, Fujian, China, 2019-2023
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Oct. 2022: Research Assistant
+  * Quanzhou Equipment Institute, Chinese Academy of Sciences
+  * Duties included: Image processing, AI edge computing, embedded
+  * Supervisor: Prof. Jun Li
   
-Skills
+Research Experiences
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Smart port unmanned patrol inspection system based on deep learning
+  * YOLOv5 Network FPGM pruning and TensorRT acceleration
+  * Builds an AI embedded system based on Jetson nano
+* Research on pipe centering technology based on visual algorithm in electromagnetic pulse welding
+  * Circle detection based on the Hove transform
+  * Automatic control system construction based on Arduino
+* Tea leaf recognition and grasping system based on adaptive low-brightness image enhancement
+  * Adaptive low-brightness image enhancement with tea bag target recognition
+  * Industrial mechanical arm control
 
 Publications
 ======
@@ -42,18 +38,22 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
   
-Teaching
+Awards and Scholarships
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
+* National scholarship, Ministry of Education of the People's Republic of China, Oct. 2022
+* First-class Scholarship, Fuzhou University, Oct. 2021, May 2022 and Oct. 2022, Three times
+* Second prize, National Undergraduate Electronic Design and Production Competition in Fujian Division, Texas Instruments Cup, China, Aug. 2022
+* First prize, National Marine Vehicle Design and Production Competition, China, Aug. 2021
+
+Activities
 ======
-* Currently signed in to 43 different slack teams
+* Deputy Minister, Network department, School of Ocean, Fuzhou University (FZU), Sep. 2020-Sep. 2021
+* Volunteer, Test competition of the World Middle School Student Games, Jinjiang, China, May, 2021
+* Laboratory members, Electronic Enthusiovers Association, School of Ocean, FZU, Sep. 2021-Present
+* Student Member, IEEE, Mar. 2022-Present
+
+Skills
+======
+* Computer skills: Python, MATLAB, C, C++, Verilog, etc.
+* Engneering skills: Embedded development (MDK v5, Arduino, STM32CubeMX), Altium Designer, etc.
