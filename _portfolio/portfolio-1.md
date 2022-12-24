@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/pipe centering.png'>"
+title: "Research on pipe centering technology based on visual algorithm in electromagnetic pulse welding"
+excerpt: "Supervise by Gang Mou, Circle detection based on the Hove transform, Automatic control system construction based on Arduino<br/><img src='/images/pipe centering.png'>"
 collection: portfolio
 ---
 
