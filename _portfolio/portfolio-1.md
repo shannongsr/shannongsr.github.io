@@ -4,4 +4,9 @@ excerpt: "Supervise by Gang Mou; Circle detection based on the Hough transform; 
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+Research on pipe centering technology based on visual algorithm in electromagnetic pulse welding (By Prof. Mou Gang) <br/>
+Based on the Hough circle detection algorithm, our team provides a device and method for real-time alignment and correction of pipes for electromagnetic pulse welding. The device and method are conducive to improving the efficiency and accuracy of alignment of inner and outer pipes in electromagnetic pulse welding of pipes with different diameters. <br/>
+<img src='/images/pipe centering.png'><br/>
+<img src='/images/pipe centering2.png'><br/>
+<img src='/images/pipe centering3.png'><br/>
+
