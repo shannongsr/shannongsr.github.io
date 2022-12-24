@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Blind Detection of Broadband Signal Based on Weighted Bi-directional Feature Pyramid Network"
+excerpt: "Short description of portfolio item number 1<br/><img src='/images/signal communication_detection.png'>"
 collection: portfolio
 ---
 
