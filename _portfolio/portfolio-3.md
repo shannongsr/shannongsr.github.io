@@ -1,6 +1,6 @@
 ---
 title: "Blind Detection of Broadband Signal Based on Weighted Bi-directional Feature Pyramid Network"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/signal communication_detection.png'>"
+excerpt: "This project is in progress.<br/><img src='/images/signal communication_detection.png'>"
 collection: portfolio
 ---
 
