@@ -1,6 +1,6 @@
 ---
 title: "Research on pipe centering technology based on visual algorithm in electromagnetic pulse welding"
-excerpt: "Supervise by Gang Mou, Circle detection based on the Hove transform, Automatic control system construction based on Arduino<br/><img src='/images/pipe centering.png'>"
+excerpt: "Supervise by Gang Mou; Circle detection based on the Hough transform; Automatic control system construction based on Arduino<br/><img src='/images/pipe centering.png'>"
 collection: portfolio
 ---
 
