@@ -26,7 +26,7 @@ Research Experiences
   * YOLOv5 Network FPGM pruning and TensorRT acceleration
   * Builds an AI embedded system based on Jetson nano
 * Research on pipe centering technology based on visual algorithm in electromagnetic pulse welding (Supervise by Gang Mou)
-  * Circle detection based on the Hove transform
+  * Circle detection based on the Hough transform
   * Automatic control system construction based on Arduino
 * Tea leaf recognition and grasping system based on adaptive low-brightness image enhancement (Supervise by Jun Li)
   * Adaptive low-brightness image enhancement with tea bag target recognition
