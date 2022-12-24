@@ -20,7 +20,7 @@ I plan to apply for a research-oriented degree in the autumn of 2023 or later se
 
 Want to design something interesting with me? 
 ======
-I like to build embedded systems and customize some interesting things. I can use Python, c, c++, MATLAB, Verilog to program. I am good at using MDK v5, Arduino, STM32CubeMX, Altium Designer, etc. to design embedded systems.
+I like to build embedded systems and customize some interesting things. I can use Python, C, C++, MATLAB, Verilog to program. I am good at using MDK v5, Arduino, STM32CubeMX, Altium Designer, etc. to design embedded systems.
 
 Since junior high school, I have been very interested in custom design, and I hope I can customize a game console. In university, I was lucky to have the opportunity to learn electronic information engineering, which enabled me to learn a lot about embedded systems and enable me to "customize" many interesting things. If you are interested in my design, you can take a look at some relevant videos I published in [bilibili](https://space.bilibili.com/25541376?spm_id_from=333.999.0.0/).
 
