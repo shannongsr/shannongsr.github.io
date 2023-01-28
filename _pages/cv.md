@@ -34,7 +34,7 @@ Research Experiences
 
 Publications and Patent
 ======
-* Shirong Guo, et al. Blind Detection of Broadband Signal Based on Weighted Bi-directional Feature Pyramid Network, Sensors (accepted on January 21, 2023), IF=3.847
+* Shirong Guo, et al. Blind Detection of Broadband Signal Based on Weighted Bi-directional Feature Pyramid Network, Sensors (accepted on 19 January, 2023), IF=3.847
 * Gang Mou, Shaowei Shen, Shirong Guo, et al. A real-time middle deviation correction device and method for electromagnetic pulse welding pipe, Chinese invention patent (submitted for final review)
   
   
