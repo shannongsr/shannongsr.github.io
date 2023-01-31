@@ -1,7 +1,7 @@
 ---
 title: "Blind Detection of Broadband Signal Based on Weighted Bi-directional Feature Pyramid Network"
-excerpt: "This project is in progress.<br/><img src='/images/signal communication_detection.png'>"
+excerpt: "[Click the link to read the article.](https://www.mdpi.com/1424-8220/23/3/1525)<br/><img src='/images/signal communication_detection.png'>"
 collection: portfolio
 ---
 
-This project is in progress.
+[Click the link to read the article.](https://www.mdpi.com/1424-8220/23/3/1525)
