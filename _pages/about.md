@@ -8,13 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Bachelor in electronic information engineering from Fuzhou University, Fujian, China. My research interests focus on deep learning, signal processing and AI edge system. [You can click here to view my resume.](https://shannongsr.github.io/cv/)
+I am currently a PhD student in Department of Chemical and Biological Engineering, Faculty of Engineering from Monash University. My workplace is located in MSRI, Suzhou, China. Now, My research topic is A simulation of hydrogen catalytical flameless combustion in a microchannel reactor, and my main supervisor is Prof. Jianglong Yu. Meanwhile, my associated supervisor is Prof. Sankar Bhattacharya and A/Prof. Baiqian Dai.
+Before July 2023, I was a Bachelor in electronic information engineering from Fuzhou University, Fujian, China. When I was an undergraduate, my research work focused on deep learning, signal processing and AI edge system. [You can click here to view my resume.](https://shannongsr.github.io/cv/)
 
 During my undergraduate period, I received the guidance of Prof. [Zhijian Lin](https://xjzz.fzu.edu.cn/info/1013/1916.htm) and Prof. [Pingping Chen](https://xjzz.fzu.edu.cn/info/1012/1070.htm) and did some research on machine learning, communication signal processing and AI edge computing.
 
 At the same time, I also got a lot of help from my class adviser, Dr. [Gang Mou](https://xjzz.fzu.edu.cn/info/1018/1061.htm). We have cooperated in the research of image processing.
 
-At present, I am an intern in Quanzhou Institute of Equipment, Chinese Academy of Sciences. Here, I accept the guidance of Dr. [Jun Li](https://people.ucas.edu.cn/~121) and Mr. [Yin Gao](http://www.casqiem.ac.cn/doclist.action?chnlid=3167) to learn about image processing and robot control.
+I was an intern in Quanzhou Institute of Equipment, Chinese Academy of Sciences. There, I accept the guidance of Dr. [Jun Li](https://people.ucas.edu.cn/~121) and Mr. [Yin Gao](http://www.casqiem.ac.cn/doclist.action?chnlid=3167) to learn about image processing and robot control.
 
 
 Want to design something interesting with me? 
