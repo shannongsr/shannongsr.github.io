@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Doctor of Philosophy, Faculty of Engineering, Chemical & Biological Engineering, MSRI, Monash University, 2023-Now
+* Doctor of Philosophy, Faculty of Engineering, Chemical & Biological Engineering, MSRI(Monash Suzhou Research Institute), Monash University, 2023-Now
 * Bachelor of Engineering majoring in Electronic Information Engineering, Fuzhou University, Fujian, China, 2019-2023
 
 Internship experience
