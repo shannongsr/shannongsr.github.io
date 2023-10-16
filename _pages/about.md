@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a PhD student in Department of Chemical and Biological Engineering, Faculty of Engineering from Monash University. My workplace is located in MSRI(Monash Suzhou Research Institute), Suzhou, China. Now, my research topic is simulation of hydrogen catalytical flameless combustion in a microchannel reactor, and my main supervisor is Prof. [Jianglong Yu](https://research.monash.edu/en/persons/jianglong-yu). Meanwhile, my associated supervisor is Prof. [Sankar Bhattacharya](https://research.monash.edu/en/persons/sankar-bhattacharya) and A/Prof. [Baiqian Dai](https://research.monash.edu/en/persons/bai-qian-dai).
+I am currently a PhD student in Department of Chemical and Biological Engineering, Faculty of Engineering from Monash University. My workplace is located in MSRI (Monash Suzhou Research Institute), Suzhou, China. Now, my research topic is simulation of hydrogen catalytical flameless combustion in a microchannel reactor, and my main supervisor is Prof. [Jianglong Yu](https://research.monash.edu/en/persons/jianglong-yu). Meanwhile, my associated supervisor is Prof. [Sankar Bhattacharya](https://research.monash.edu/en/persons/sankar-bhattacharya) and A/Prof. [Baiqian Dai](https://research.monash.edu/en/persons/bai-qian-dai).
 
 Before July 2023, I was a Bachelor in electronic information engineering from Fuzhou University, Fujian, China. When I was an undergraduate, my research work focused on deep learning, signal processing and AI edge system. [You can click here to view my resume.](https://shannongsr.github.io/cv/)
 
