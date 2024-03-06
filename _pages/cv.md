@@ -14,9 +14,11 @@ Education
 * Doctor of Philosophy, Faculty of Engineering, Chemical & Biological Engineering, MSRI (Monash Suzhou Research Institute), Monash University, 2023-Now
 * Bachelor of Engineering majoring in Electronic Information Engineering, Fuzhou University, Fujian, China, 2019-2023
 
-Internship experience
+Work experience
 ======
-* Oct. 2022: Research Assistant
+* 2023-Now: Assistant Researcher
+  * MSRI, Monash University
+* 2022-2023: Research Assistant
   * Quanzhou Equipment Institute, Chinese Academy of Sciences
   * Duties included: Image processing, AI edge computing, Embedded system
   * Supervisor: Prof. Jun Li
