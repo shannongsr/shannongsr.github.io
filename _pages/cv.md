@@ -37,9 +37,12 @@ Research Experiences
 
 Publications and Patent
 ======
-* Shirong Guo, et al. Blind Detection of Broadband Signal Based on Weighted Bi-directional Feature Pyramid Network, Sensors ([link](https://www.mdpi.com/1424-8220/23/3/1525)), IF=3.847
-* Gang Mou, Shaowei Shen, Shirong Guo, et al. A real-time middle deviation correction device and method for electromagnetic pulse welding pipe, Chinese invention patent (CN115121927B)
-* Jun Li, Yin Gao, Chao Yan, Shirong Guo. Intelligent pest control methods and systems, Chinese invention patent (CN116569898A)
+* Co-first-author. A Comprehensive Review of the Development and Applications of Hydrogen Energy Technologies in China for Carbon Neutrality: Technology Advances and Challenges, Fuel (Under review)
+* Co-author. A Machine Learning and CFD Modeling Hybrid Approach for Predicting Real-time Heat Transfer During Cokemaking Processes, Fuel (Under review)
+* Co-author. The Employment of Domain Adaptation Strategy for Improving the Applicability of Neural Network-Based Coke Quality Prediction for Smart Cokemaking Process, Fuel (Under review)
+* First-author. Blind Detection of Broadband Signal Based on Weighted Bi-directional Feature Pyramid Network, Sensors ([link](https://www.mdpi.com/1424-8220/23/3/1525)), IF=3.847
+* Co-author. A real-time middle deviation correction device and method for electromagnetic pulse welding pipe, Chinese invention patent (CN115121927B)
+* Co-author. Intelligent pest control methods and systems, Chinese invention patent (CN116569898A)
   
 Awards and Scholarships
 ======
