@@ -11,8 +11,24 @@ redirect_from:
 
 Education
 ======
-* Doctor of Philosophy, Faculty of Engineering, Chemical & Biological Engineering, MSRI (Monash Suzhou Research Institute), Monash University, 2023-Now
+* Doctor of Philosophy, Faculty of Engineering, MSRI (Monash Suzhou Research Institute), Monash University, 2023-Now
 * Bachelor of Engineering majoring in Electronic Information Engineering, Fuzhou University, Fujian, China, 2019-2023
+
+Publications and Patent
+======
+* Co-first-author. A Comprehensive Review of the Development and Applications of Hydrogen Energy Technologies in China for Carbon Neutrality: Technology Advances and Challenges, Fuel (Under review)
+* Co-author. A Machine Learning and CFD Modeling Hybrid Approach for Predicting Real-time Heat Transfer During Cokemaking Processes, Fuel (Under review)
+* Co-author. The Employment of Domain Adaptation Strategy for Improving the Applicability of Neural Network-Based Coke Quality Prediction for Smart Cokemaking Process, Fuel (Under review)
+* First-author. Blind Detection of Broadband Signal Based on Weighted Bi-directional Feature Pyramid Network, Sensors ([link](https://www.mdpi.com/1424-8220/23/3/1525)), IF=3.847
+* Co-author. A real-time middle deviation correction device and method for electromagnetic pulse welding pipe, Chinese invention patent (CN115121927B)
+* Co-author. Intelligent pest control methods and systems, Chinese invention patent (CN116569898A)
+
+Awards and Scholarships
+======
+* National scholarship, Ministry of Education of the People's Republic of China, Oct. 2022
+* First-class Scholarship, Fuzhou University, Oct. 2021, May 2022 and Oct. 2022, Three times
+* Second prize, National Undergraduate Electronic Design and Production Competition in Fujian Division, Texas Instruments Cup, China, Aug. 2022
+* First prize, National Marine Vehicle Design and Production Competition, China, Aug. 2021
 
 Work experience
 ======
@@ -35,22 +51,6 @@ Research Experiences
   * Adaptive low-brightness image enhancement with tea bag target recognition
   * Industrial mechanical arm control
 
-Publications and Patent
-======
-* Co-first-author. A Comprehensive Review of the Development and Applications of Hydrogen Energy Technologies in China for Carbon Neutrality: Technology Advances and Challenges, Fuel (Under review)
-* Co-author. A Machine Learning and CFD Modeling Hybrid Approach for Predicting Real-time Heat Transfer During Cokemaking Processes, Fuel (Under review)
-* Co-author. The Employment of Domain Adaptation Strategy for Improving the Applicability of Neural Network-Based Coke Quality Prediction for Smart Cokemaking Process, Fuel (Under review)
-* First-author. Blind Detection of Broadband Signal Based on Weighted Bi-directional Feature Pyramid Network, Sensors ([link](https://www.mdpi.com/1424-8220/23/3/1525)), IF=3.847
-* Co-author. A real-time middle deviation correction device and method for electromagnetic pulse welding pipe, Chinese invention patent (CN115121927B)
-* Co-author. Intelligent pest control methods and systems, Chinese invention patent (CN116569898A)
-  
-Awards and Scholarships
-======
-* National scholarship, Ministry of Education of the People's Republic of China, Oct. 2022
-* First-class Scholarship, Fuzhou University, Oct. 2021, May 2022 and Oct. 2022, Three times
-* Second prize, National Undergraduate Electronic Design and Production Competition in Fujian Division, Texas Instruments Cup, China, Aug. 2022
-* First prize, National Marine Vehicle Design and Production Competition, China, Aug. 2021
-
 Activities
 ======
 * Deputy Minister, Network department, School of Ocean, Fuzhou University (FZU), Sep. 2020-Sep. 2021
@@ -61,4 +61,4 @@ Activities
 Skills
 ======
 * Computer skills: Python, MATLAB, C, C++, Verilog, etc.
-* Engneering skills: Embedded development (MDK v5, Arduino, STM32CubeMX), Altium Designer, etc.
+* Engneering skills: ANSYS Fluent, Embedded development (MDK v5, Arduino, STM32CubeMX), Altium Designer, etc.
