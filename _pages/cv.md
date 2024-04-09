@@ -14,12 +14,14 @@ Education
 * Doctor of Philosophy, Faculty of Engineering, MSRI (Monash Suzhou Research Institute), Monash University, 2023-Now
 * Bachelor of Engineering majoring in Electronic Information Engineering, Fuzhou University, Fujian, China, 2019-2023
 
-Publications and Patent
+Publications and Patents
 ======
 * Co-first-author. A Comprehensive Review of the Development and Applications of Hydrogen Energy Technologies in China for Carbon Neutrality: Technology Advances and Challenges, Fuel (Under review)
 * Co-author. A Machine Learning and CFD Modeling Hybrid Approach for Predicting Real-time Heat Transfer During Cokemaking Processes, Fuel (Under review)
 * Co-author. The Employment of Domain Adaptation Strategy for Improving the Applicability of Neural Network-Based Coke Quality Prediction for Smart Cokemaking Process, Fuel (Under review)
 * First-author. Blind Detection of Broadband Signal Based on Weighted Bi-directional Feature Pyramid Network, Sensors ([link](https://www.mdpi.com/1424-8220/23/3/1525)), IF=3.847
+* First-author. Microchannel reactor system and method based on catalytic hydrogen combustion and staged heating (基于催化氢燃烧和分段加热的微通道反应器系统及方法), Chinese invention patent (Under review, 2024104136555)
+* Co-author. Preparation method and application of melting catalyst for hydrogen production from hydrocarbon cracking (碳氢化合物裂解制氢熔融催化剂的制备方法及应用), Chinese invention patent (Under review, 2024104136517)
 * Co-author. Domain adaptive training method to improve the applicability of coke thermal quality prediction model, Chinese invention patent (CN117669395A)
 * Co-author. A real-time middle deviation correction device and method for electromagnetic pulse welding pipe, Chinese invention patent (CN115121927B)
 * Co-author. Intelligent pest control methods and systems, Chinese invention patent (CN116569898A)
