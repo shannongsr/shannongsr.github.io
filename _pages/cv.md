@@ -32,6 +32,7 @@ Awards and Scholarships
 * First-class Scholarship, Fuzhou University, Oct. 2021, May 2022 and Oct. 2022, Three times
 * Second prize, National Undergraduate Electronic Design and Production Competition in Fujian Division, Texas Instruments Cup, China, Aug. 2022
 * First prize, National Marine Vehicle Design and Production Competition, China, Aug. 2021
+* 福州大学2023届优秀本科生毕业设计（论文）([link](https://jwch.fzu.edu.cn/info/1039/12881.htm)), China, Jul. 2023
 
 Work experience
 ======
