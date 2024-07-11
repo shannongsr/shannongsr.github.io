@@ -46,13 +46,14 @@ Work experience
   
 Research Experiences
 ======
-* Smart port unmanned patrol inspection system based on deep learning (Supervise by Pingping Chen)
+* Microchannel Reactor of Catalytic Hydrogen Combustion for Steam Generation: Modeling, Optimization and Modular Scale-up (Supervise by Jianglong Yu, Funded by Monash Suzhou Research Institute)
+* Smart port unmanned patrol inspection system based on deep learning (Supervise by Pingping Chen, Funded by SRTP of Fuzhou University)
   * YOLOv5 Network FPGM pruning and TensorRT acceleration
   * Builds an AI embedded system based on Jetson nano
-* Research on pipe centering technology based on visual algorithm in electromagnetic pulse welding (Supervise by Gang Mou)
+* Research on pipe centering technology based on visual algorithm in electromagnetic pulse welding (Supervise by Gang Mou, Funded by SRTP of Fuzhou University)
   * Circle detection based on the Hough transform
   * Automatic control system construction based on Arduino
-* Tea leaf recognition and grasping system based on adaptive low-brightness image enhancement (Supervise by Jun Li)
+* Tea leaf recognition and grasping system based on adaptive low-brightness image enhancement (Supervise by Jun Li, Funded by SRTP of Chinese Academy of Sciences)
   * Adaptive low-brightness image enhancement with tea bag target recognition
   * Industrial mechanical arm control
 
