@@ -16,9 +16,9 @@ Education
 
 Publications and Patents
 ======
-* Co-first-author. Comprehensive Review of Development and Applications of Hydrogen Energy Technologies in China for Carbon Neutrality: Technology Advances and Challenges, ECM
-* Co-author. A Machine Learning and CFD Modeling Hybrid Approach for Predicting Real-time Heat Transfer During Cokemaking Processes, Fuel
-* Co-author. The Employment of Domain Adaptation Strategy for Improving the Applicability of Neural Network-Based Coke Quality Prediction for Smart Cokemaking Process, Fuel
+* Co-first-author. Comprehensive Review of Development and Applications of Hydrogen Energy Technologies in China for Carbon Neutrality: Technology Advances and Challenges, ECM ([link](https://doi.org/10.1016/j.enconman.2024.118776))
+* Co-author. A Machine Learning and CFD Modeling Hybrid Approach for Predicting Real-time Heat Transfer During Cokemaking Processes, Fuel ([link](https://doi.org/10.1016/j.fuel.2024.132273))
+* Co-author. The Employment of Domain Adaptation Strategy for Improving the Applicability of Neural Network-Based Coke Quality Prediction for Smart Cokemaking Process, Fuel ([link](https://doi.org/10.1016/j.fuel.2024.132162))
 * Corresponding author. A framework of insole blanking robot based on adaptive edge detection and FSPS-BIT* path planning, Scientific Reports ([link](https://www.nature.com/articles/s41598-024-71636-4)), IF=3.8
 * First-author. Blind Detection of Broadband Signal Based on Weighted Bi-directional Feature Pyramid Network, Sensors ([link](https://www.mdpi.com/1424-8220/23/3/1525)), IF=3.847
 * First-author. Microchannel reactor system and method based on catalytic hydrogen combustion and staged heating (基于催化氢燃烧和分段加热的微通道反应器系统及方法), Chinese invention patent (Under review, 2024104136555)
