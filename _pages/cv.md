@@ -16,9 +16,9 @@ Education
 
 Publications and Patents
 ======
-* Co-first-author. Comprehensive Review of Development and Applications of Hydrogen Energy Technologies in China for Carbon Neutrality: Technology Advances and Challenges, ECM ([link](https://doi.org/10.1016/j.enconman.2024.118776))
-* Co-author. A Machine Learning and CFD Modeling Hybrid Approach for Predicting Real-time Heat Transfer During Cokemaking Processes, Fuel ([link](https://doi.org/10.1016/j.fuel.2024.132273))
-* Co-author. The Employment of Domain Adaptation Strategy for Improving the Applicability of Neural Network-Based Coke Quality Prediction for Smart Cokemaking Process, Fuel ([link](https://doi.org/10.1016/j.fuel.2024.132162))
+* Co-first-author. Comprehensive Review of Development and Applications of Hydrogen Energy Technologies in China for Carbon Neutrality: Technology Advances and Challenges, ECM ([link](https://doi.org/10.1016/j.enconman.2024.118776)), IF=9.9
+* Co-author. A Machine Learning and CFD Modeling Hybrid Approach for Predicting Real-time Heat Transfer During Cokemaking Processes, Fuel ([link](https://doi.org/10.1016/j.fuel.2024.132273)), IF=6.7
+* Co-author. The Employment of Domain Adaptation Strategy for Improving the Applicability of Neural Network-Based Coke Quality Prediction for Smart Cokemaking Process, Fuel ([link](https://doi.org/10.1016/j.fuel.2024.132162)), IF=6.7
 * Corresponding author. A framework of insole blanking robot based on adaptive edge detection and FSPS-BIT* path planning, Scientific Reports ([link](https://www.nature.com/articles/s41598-024-71636-4)), IF=3.8
 * First-author. Blind Detection of Broadband Signal Based on Weighted Bi-directional Feature Pyramid Network, Sensors ([link](https://www.mdpi.com/1424-8220/23/3/1525)), IF=3.847
 * Co-author. 数值模拟与人工神经网络相耦合的焦化过程实时模拟方法, Chinese invention patent (CN118070713B)
