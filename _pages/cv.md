@@ -17,6 +17,7 @@ Education
 Publications and Patents
 ======
 * Co-first-author. Comprehensive Review of Development and Applications of Hydrogen Energy Technologies in China for Carbon Neutrality: Technology Advances and Challenges, ECM ([link](https://doi.org/10.1016/j.enconman.2024.118776)), IF=9.9
+* Corresponding author. Real-time Boiler Fault Detection Using the Multi-modal GCA Model Optimized by GVSAO, IEEE Sensors Journal, IF=4.5
 * Co-author. A Machine Learning and CFD Modeling Hybrid Approach for Predicting Real-time Heat Transfer During Cokemaking Processes, Fuel ([link](https://doi.org/10.1016/j.fuel.2024.132273)), IF=6.7
 * Co-author. The Employment of Domain Adaptation Strategy for Improving the Applicability of Neural Network-Based Coke Quality Prediction for Smart Cokemaking Process, Fuel ([link](https://doi.org/10.1016/j.fuel.2024.132162)), IF=6.7
 * Corresponding author. A framework of insole blanking robot based on adaptive edge detection and FSPS-BIT* path planning, Scientific Reports ([link](https://www.nature.com/articles/s41598-024-71636-4)), IF=3.8
@@ -62,6 +63,7 @@ Research Experiences
 Activities
 ======
 * Reviewer (Research field: Robotics), Scientific Reports
+* CEAM2023, CEAM2025,  Organizing Committee
 * Deputy Minister, Network department, School of Ocean, Fuzhou University (FZU), Sep. 2020-Sep. 2021
 * Volunteer, Test competition of the World Middle School Student Games, Jinjiang, China, May, 2021
 * Laboratory members, Electronic Enthusiovers Association, School of Ocean, FZU, Sep. 2021-Present
