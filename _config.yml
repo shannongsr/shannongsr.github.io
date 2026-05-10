@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Bamboo's Home"
+title                    : "Shirong Guo | Academic Homepage"
 title_separator          : "-"
 name                     : &name "Shirong Guo"
-description              : &description "personal description"
+description              : &description "PhD student at Monash University researching smart manufacturing, hydrogen safety, machine vision, and AI for Science."
 url                      : https://shannongsr.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "shannongsr/shannongsr.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Shirong Guo"
   avatar           : "profile.png"
-  bio              : "He is currently a Phd student in Faculty of engineering from Monash University."
-  location         : "Suzhou, China"
+  bio              : "PhD student at Monash University researching smart manufacturing, hydrogen safety, machine vision, and AI for Science."
+  location         : "Melbourne, Australia"
   employer         :
   pubmed           : 
   googlescholar    : 
