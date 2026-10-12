@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Shirong Guo | Academic Homepage"
 title_separator          : "-"
 name                     : &name "Shirong Guo"
-description              : &description "PhD student at Monash University researching smart manufacturing, hydrogen safety, machine vision, and AI for Science."
+description              : &description "PhD candidate at Monash University developing AI and data-driven methods for complex energy systems."
 url                      : https://shannongsr.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "shannongsr/shannongsr.github.io"
@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Shirong Guo"
   avatar           : "profile.png"
-  bio              : "PhD student at Monash University researching smart manufacturing, hydrogen safety, machine vision, and AI for Science."
+  bio              : "PhD candidate at Monash University working on AI, intelligent data analytics, and complex energy systems."
   location         : "Melbourne, Australia"
   employer         :
   pubmed           : 
-  googlescholar    : 
+  googlescholar    : "https://scholar.google.com/citations?user=xGLx2D4AAAAJ&hl=en"
   email            : "shirong.guo@monash.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
