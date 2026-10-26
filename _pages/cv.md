@@ -26,7 +26,8 @@ My research focuses on AI and intelligent data analytics for complex energy syst
 
 Published Journal Papers
 ======
-* 13 SCI-indexed journal papers, including 8 first-author, co-first-author, or corresponding-author papers
+* 14 SCI-indexed journal papers, including 9 first-author, co-first-author, or corresponding-author papers
+* First author. Kinetic Anchoring for Interpretable Machine Learning of Thermal Performance in Catalytic Hydrogen Combustion Microchannel Reactors, *Energy Conversion and Management* (accepted)
 * First author. Techno-economic Assessment of the Realisable Economic Value and Value Capture Gap of Probabilistic PV Forecasting in PV-Battery Microgrid Dispatch, *Sustainable Energy Technologies and Assessments* ([link](https://doi.org/10.1016/j.seta.2026.105319))
 * First author. TGCA-Net: Temporal-GAF Measurement Fusion with Uncertainty Estimation for Wind Turbine Blade Monitoring under Lightning-Induced Damage, *Measurement* ([link](https://doi.org/10.1016/j.measurement.2026.122813))
 * First author. Thermal Performance and Mechanistic Role of U-Bend Number in Microchannel Catalytic Hydrogen Combustion: A CFD-Based Study, *Energy* ([link](https://doi.org/10.1016/j.energy.2026.140921))
@@ -44,7 +45,6 @@ Published Journal Papers
 Manuscripts Under Review
 ======
 * First author. A Hardware-Aware and Energy-Efficient Edge Vision Framework for Embedded Systems: A Case Study of Coffee Fruit Ripeness Detection, *Computers and Electrical Engineering* (major revision)
-* First author. Kinetics-Anchored Multi-Fidelity Learning for Thermal Performance Regime Diagnosis in Catalytic Hydrogen Combustion Microchannel Reactors, *Energy Conversion and Management*
 * First author. Uncertainty-Aware Operating Guidance for Catalytic Hydrogen Combustion Microreactors Based on Machine Learning, *Energy*
 * First author. Energy-Efficient and Severity-Aware Artificial Intelligence Framework for Photovoltaic Inspection Using Unmanned Aerial Vehicles Enabled by Lightweight Feature Aggregation, *Expert Systems With Applications*
 
