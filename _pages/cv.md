@@ -44,6 +44,7 @@ Published Journal Papers
 
 Manuscripts Under Review
 ======
+* First author. Uncertainty-Guided Counterfactual Sensor Selection and Safety-Gated Recognition for Autonomous Sensing Agents in IoT Systems, *IEEE Internet of Things Journal* (under review)
 * First author. Optimization of Catalytic Hydrogen Combustion Reactors under Predictive Uncertainty: A Net-Energy Assessment for Renewable Heat Supply, *Renewable Energy* (with editor)
 * First author. Linking Wind Power Forecast Uncertainty to Cost-Sensitive Decisions: A Market-Oriented Evaluation under Price-Weighted Asymmetric Loss, *Renewable Energy* (under review)
 
