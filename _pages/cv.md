@@ -27,7 +27,7 @@ My research focuses on AI and intelligent data analytics for complex energy syst
 Published Journal Papers
 ======
 * 14 SCI-indexed journal papers, including 9 first-author, co-first-author, or corresponding-author papers
-* First author. Kinetic Anchoring for Interpretable Machine Learning of Thermal Performance in Catalytic Hydrogen Combustion Microchannel Reactors, *Energy Conversion and Management* (accepted)
+* First author. Kinetic Anchoring for Interpretable Machine Learning of Thermal Performance in Catalytic Hydrogen Combustion Microchannel Reactors, *Energy* (accepted)
 * First author. Techno-economic Assessment of the Realisable Economic Value and Value Capture Gap of Probabilistic PV Forecasting in PV-Battery Microgrid Dispatch, *Sustainable Energy Technologies and Assessments* ([link](https://doi.org/10.1016/j.seta.2026.105319))
 * First author. TGCA-Net: Temporal-GAF Measurement Fusion with Uncertainty Estimation for Wind Turbine Blade Monitoring under Lightning-Induced Damage, *Measurement* ([link](https://doi.org/10.1016/j.measurement.2026.122813))
 * First author. Thermal Performance and Mechanistic Role of U-Bend Number in Microchannel Catalytic Hydrogen Combustion: A CFD-Based Study, *Energy* ([link](https://doi.org/10.1016/j.energy.2026.140921))
