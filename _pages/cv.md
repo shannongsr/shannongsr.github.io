@@ -44,9 +44,8 @@ Published Journal Papers
 
 Manuscripts Under Review
 ======
-* First author. A Hardware-Aware and Energy-Efficient Edge Vision Framework for Embedded Systems: A Case Study of Coffee Fruit Ripeness Detection, *Computers and Electrical Engineering* (major revision)
-* First author. Uncertainty-Aware Operating Guidance for Catalytic Hydrogen Combustion Microreactors Based on Machine Learning, *Energy*
-* First author. Energy-Efficient and Severity-Aware Artificial Intelligence Framework for Photovoltaic Inspection Using Unmanned Aerial Vehicles Enabled by Lightweight Feature Aggregation, *Expert Systems With Applications*
+* First author. Optimization of Catalytic Hydrogen Combustion Reactors under Predictive Uncertainty: A Net-Energy Assessment for Renewable Heat Supply, *Renewable Energy* (with editor)
+* First author. Linking Wind Power Forecast Uncertainty to Cost-Sensitive Decisions: A Market-Oriented Evaluation under Price-Weighted Asymmetric Loss, *Renewable Energy* (under review)
 
 Authorized Chinese Invention Patents
 ======
