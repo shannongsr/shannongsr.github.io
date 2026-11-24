@@ -89,7 +89,7 @@ Activities
 * Reviewer, *Scientific Reports*
 * Reviewer, *Discover Sustainability*
 * Organizing Committee Member, CEAM 2023 and CEAM 2025
-* Invited Speaker, CEAM 2024
+* Invited Speaker, CEAM 2024 and CEAM 2026
 
 Skills
 ======
