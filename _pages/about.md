@@ -14,7 +14,7 @@ Before joining Monash, I completed a bachelor's degree in Electronic Information
 
 My recent work spans probabilistic photovoltaic forecasting and microgrid dispatch, uncertainty-aware wind-turbine monitoring, catalytic hydrogen microreactor modeling, intelligent cokemaking, and deployable edge AI. Across these applications, I combine multimodal learning, domain adaptation, uncertainty estimation, optimization, and CFD-machine learning hybrid modeling.
 
-I have published 14 SCI-indexed journal papers, including 9 first-author, co-first-author, or corresponding-author papers, and hold 5 authorized Chinese invention patents. My current work is motivated by a common question: how can intelligent models remain useful when engineering data are limited, heterogeneous, uncertain, or constrained by physical operation?
+Over the past five years, I have published 17 SCI-indexed journal papers, including 5 first-author, 2 co-first-author, and 2 corresponding-author papers. All 9 of these papers appeared in JCR Q1 journals, and one was selected as an ESI Highly Cited Paper. My Google Scholar profile records 330 citations and an h-index of 6. I also hold 5 authorized Chinese invention patents. My current work is motivated by a common question: how can intelligent models remain useful when engineering data are limited, heterogeneous, uncertain, or constrained by physical operation?
 
 I welcome collaborations in energy data science, industrial AI, intelligent sensing, and engineering system optimization.
 

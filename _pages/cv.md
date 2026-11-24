@@ -26,7 +26,9 @@ My research focuses on AI and intelligent data analytics for complex energy syst
 
 Published Journal Papers
 ======
-* 14 SCI-indexed journal papers, including 9 first-author, co-first-author, or corresponding-author papers
+* 17 SCI-indexed journal papers published within the past five years
+* 5 first-author, 2 co-first-author, and 2 corresponding-author papers; all 9 appeared in JCR Q1 journals
+* 1 ESI Highly Cited Paper; Google Scholar citations: 330; h-index: 6
 * First author. Kinetic Anchoring for Interpretable Machine Learning of Thermal Performance in Catalytic Hydrogen Combustion Microchannel Reactors, *Energy* (accepted)
 * First author. Techno-economic Assessment of the Realisable Economic Value and Value Capture Gap of Probabilistic PV Forecasting in PV-Battery Microgrid Dispatch, *Sustainable Energy Technologies and Assessments* ([link](https://doi.org/10.1016/j.seta.2026.105319))
 * First author. TGCA-Net: Temporal-GAF Measurement Fusion with Uncertainty Estimation for Wind Turbine Blade Monitoring under Lightning-Induced Damage, *Measurement* ([link](https://doi.org/10.1016/j.measurement.2026.122813))
@@ -38,6 +40,9 @@ Published Journal Papers
 * Corresponding author. A Framework of Insole Blanking Robot Based on Adaptive Edge Detection and FSPS-BIT* Path Planning, *Scientific Reports* ([link](https://doi.org/10.1038/s41598-024-71636-4))
 * Co-author. Unsupervised Fault Detection via Transformer Autoencoder with Clustering and Transformer-based Fault Identification in Metallurgical Cokemaking Processes, *Fuel* ([link](https://www.sciencedirect.com/science/article/pii/S001623612601121X))
 * Co-author. The Development of a Multimodal Learning Framework Based on Coal Properties for Coke Reactivity Index and Coke Strength after Reaction Prediction, *Fuel Processing Technology* ([link](https://doi.org/10.1016/j.fuproc.2026.108440))
+* Co-author. Electronic Origin of Catalytic Methane Pyrolysis on NiMoM-Bi Alloys: A Bader Charge Descriptor, *Fuel*
+* Co-author. An Interpretable Large Language Model Framework with the Cokemaking-Oriented Prompt and Fuzzy-Enhanced Explanation for Coke Quality Prediction, *Fuel*
+* Co-author. A Graph-Based Direct Association Strategy with Fuzzy Interpretability for Linking Individual Coal Properties in Coal Blending Schemes to Coke Quality, *Fuel*
 * Co-author. A Machine Learning and CFD Modeling Hybrid Approach for Predicting Real-time Heat Transfer During Cokemaking Processes, *Fuel* ([link](https://doi.org/10.1016/j.fuel.2024.132273))
 * Co-author. The Employment of Domain Adaptation Strategy for Improving the Applicability of Neural Network-Based Coke Quality Prediction for Smart Cokemaking Process, *Fuel* ([link](https://doi.org/10.1016/j.fuel.2024.132162))
 * Co-author. Optimizing Drug Delivery in Smart Pharmacies: A Novel Framework of Multi-stage Grasping Network Combined with Adaptive Robotics Mechanism, *Medical & Biological Engineering & Computing* ([link](https://jglobal.jst.go.jp/en/public/202402214555339703))
