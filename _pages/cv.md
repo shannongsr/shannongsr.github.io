@@ -86,6 +86,10 @@ Activities
 ======
 * Reviewer, *Fuel*
 * Reviewer, *eTransportation*
+* Reviewer, *Computers and Electronics in Agriculture*
+* Reviewer, *Solar Energy*
+* Reviewer, *Journal of Systems Architecture*
+* Reviewer, *Physical Communication*
 * Reviewer, *Scientific Reports*
 * Reviewer, *Discover Sustainability*
 * Organizing Committee Member, CEAM 2023 and CEAM 2025
