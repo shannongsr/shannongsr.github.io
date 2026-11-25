@@ -91,6 +91,7 @@ Activities
 * Reviewer, *Solar Energy*
 * Reviewer, *Journal of Systems Architecture*
 * Reviewer, *Physical Communication*
+* Reviewer, *IEEE Sensors Journal*
 * Reviewer, *Scientific Reports*
 * Reviewer, *Discover Sustainability*
 * Organizing Committee Member, CEAM 2023 and CEAM 2025
